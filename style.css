@@ -1,0 +1,26 @@
+/* Navbar */
+.navbar-brand {
+    margin-right: 30px;
+    font-family: Viga;
+    font-size: 32px;
+}
+
+.nav-link {
+    margin-right: 30px;
+}
+
+#produk {
+    margin-top: 20px;
+}
+
+/* Carousel */
+#carouselExampleInterval {
+    margin-top: 74px;
+    border-bottom: 2px solid grey;
+}
+
+
+/* DEKSTOP VERSION */
+@media (min-widhth: 992px) {
+
+}
